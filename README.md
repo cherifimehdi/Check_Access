@@ -1,4 +1,6 @@
- # Check_Access Project
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/cherifimehdi/Check_Access)
+
+# Check_Access Project
   
 This project leverages [Genie/pyATS](https://pubhub.devnetcloud.com/media/genie-docs/docs/cookbooks/index.html) framework, [WebEx Messenger](https://pubhub.devnetcloud.com/media/genie-docs/docs/cookbooks/index.html) and [python logging module](https://docs.python.org/3/library/logging.html) to check access into network devices by displaying, sending the result to WebEx Messenger Space and triggering logs to Syslog server for information and maintenance purposes. This project exploits the simplicity of __Genie/pyATS__ framework with its ***connect()*** method in order to check the access by simply handling ***ConnectionError*** exception.
 Keep in mind that this project is not to test connectivity, it allows to check access and can be used in many ways : 

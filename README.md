@@ -14,7 +14,7 @@ Here is the topology used in this project:
 
 ![Topology](./Images/Topology.png)
 
-[GNS3](https://gns3.com/) was used with Cisco routers and a Linux machine as Admin since the framework __Genie/PyATS__ works only on Linux or Mac OSX. However, you can use the Windows Subsystem for Linux (WSL, as the case used in this project). You can also test this project using your own emulator or the [DevNet Sandbox Cisco Modeling Labs (CML)](https://devnetsandbox.cisco.com/RM/Topology). You just need to modify the parameters concerning the information about the devices used in the __connex.yml__ file (IP addresses, users, IOS type, ...).
+[GNS3](https://gns3.com/) was used with Cisco routers and a Linux machine as Admin since the framework __Genie/PyATS__ works only on Linux or Mac OSX. However, you can use the Windows Subsystem for Linux (WSL), as the case of this project represented here by the __Admin__ host as shown in the topology. You can also test this project using your own emulator or the [DevNet Sandbox Cisco Modeling Labs (CML)](https://devnetsandbox.cisco.com/RM/Topology). You just need to modify the parameters concerning the information about the devices used in the __connex.yml__ file (IP addresses, users, IOS type, ...).
 
 # Packages installation and Requierements
 
@@ -58,7 +58,7 @@ This project allows :
 
 ## In case of no access problem
 
-Here we run __check_access.py__ script:
+Here we run __check_access.py__ script from the __Admin__ host:
 
 ```console
 (Check_Access) [mehdi@Check_Access]$ python check_access.py
@@ -91,7 +91,7 @@ Now we will deactivate the management interface of the router R2
 
 ![R2 Issue](./Images/Create_Issue_R2.png)
 
-Now we run the __check_access.py__ script:
+Now we run the __check_access.py__ script from the __Admin__ host:
 
 ```console
 (Check_Access) [mehdi@Check_Access]$ python check_access.py

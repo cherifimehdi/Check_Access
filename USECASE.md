@@ -1,4 +1,4 @@
-Check_Access Project
+Validate/Monitor access to network devices with the integration of Genie/pyATS, WebEx Messenger and Syslog server
 =====================================
 Exploiting Genie/pyATS for Validating/Monitoring access to network devices
 

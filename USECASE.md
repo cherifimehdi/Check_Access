@@ -1,6 +1,6 @@
 Validate/Monitor access to network devices with the integration of Genie/pyATS, WebEx Messenger and Syslog server
 =====================================
-Exploiting Genie/pyATS for Validating/Monitoring access to network devices
+Validate/Monitor access to network devices
 
 The present use case leverages [Genie/pyATS](https://pubhub.devnetcloud.com/media/genie-docs/docs/cookbooks/index.html), [WebEx Messenger](https://pubhub.devnetcloud.com/media/genie-docs/docs/cookbooks/index.html) and [python logging module](https://docs.python.org/3/library/logging.html) to efficiency Validate/Monitor access to network devices by displaying, sending the result to WebEx Messenger Space and triggering logs to Syslog server for information and maintenance purposes. 
 The present project can be used for:

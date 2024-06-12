@@ -119,7 +119,7 @@ As it shows from the console, the Syslog server and the __Result.txt__ file, we 
 
 # About me
 
-PhD in Electronics and an active Cisco CCAI Instructor and Network Engineering Trainer. Part of Cisco DevNet Class 2020. Cisco DevNet Code Exchange and Automation Exchange Contributor.
+Active Cisco CCAI Instructor and Network Engineering Trainer. Part of Cisco DevNet Class 2020. Cisco DevNet Code Exchange and Automation Exchange Contributor.
 I am interesting in all about NetDevOps, Networking programmability and automation. I am a Cisco contents fan.
 ## Contact Me
 

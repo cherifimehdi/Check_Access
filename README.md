@@ -10,10 +10,6 @@ Keep in mind that this project is not to test connectivity, it allows to check a
 
 # Topology and Simulation
 
-Before we start, here a demo:
-
-![Demo](./Images/Check_Access.gif)
-
 Here is the topology used in this project:
 
 ![Topology](./Images/Topology.png)

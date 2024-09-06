@@ -8,9 +8,6 @@ Keep in mind that this project is not to test connectivity, it allows to check a
    - Check access routinely
    - Deployed separately or integrated in projects such as : before each provisioning or retrieving data form devices or CI/CD pipeline process to priore check accessibility
 
-# Demo
-
-![Demo](./Images/Check_Access.gif)
 
 # Topology and Simulation
 
